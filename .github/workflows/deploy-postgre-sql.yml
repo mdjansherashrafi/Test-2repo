@@ -1,4 +1,4 @@
-name: Deploy PostgreSQL to oracleK8s
+name: Deploy PostgreSQL to oracleK8
 
 on:
   push:
